@@ -210,3 +210,10 @@ __marimo__/
 DataScience-Project.iml
 *.xml
 .idea/*
+
+# Untrack large datasets
+datasets/weather_sample_100k.csv
+datasets/weather_sample_100k_cleaned.csv
+datasets/weather_sample_100k_reduced.csv
+datasets/flights_sample_100k.csv
+datasets/flights_sample_100k_cleaned.csv
